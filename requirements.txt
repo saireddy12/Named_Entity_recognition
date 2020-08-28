@@ -1,0 +1,14 @@
+spacy
+flask
+pandas
+pymysql
+<<<<<<< HEAD
+re
+sqlalchemy
+passlib
+flask_httpauth
+||||||| merged common ancestors
+re
+=======
+
+>>>>>>> 68ca8b649de07f1660844a5f68efdf650f412757
